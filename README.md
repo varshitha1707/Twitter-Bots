@@ -5,5 +5,5 @@
 Reference : [HERE](https://youtu.be/ppPKeIDjcCs)
 
 ## 2. Twitter Schedule Tweets Bot:
-### This Bot lets tweets for you at a scheduled time.  
+### This Bot tweets for you at a scheduled time.  
 
